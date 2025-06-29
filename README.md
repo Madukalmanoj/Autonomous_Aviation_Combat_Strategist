@@ -97,7 +97,7 @@ Example input files are located in the random_data/images/ and random_data/video
 | Name | Role |
 |------|------|
 | [Madukal Manoj](https://github.com/Madukalmanoj) | Lead ML Engineer – YOLOv8 Training & Testing |
-| [Benoorkar Akshitha](https://github.com/Akshitha1105) | Strategy Engine Developer |
+| [Benoorkar Akshitha](https://github.com/Akshitha1105) | Strategy Logic Architect – Rule-Based Combat System|
 | [Thudimalla Vaishnavi](https://github.com/thudimillavaishnavi26) | Data Specialist – Cleaning & Manual Annotation |
 | [P. Ananth](https://github.com/Ananthx66) | Knowledge Base Developer – Aircraft Data Module |
 | [A. Varun](https://github.com/Appalavarun) | UI Developer – Streamlit App Creator |
