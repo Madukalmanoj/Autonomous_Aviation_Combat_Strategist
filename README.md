@@ -28,6 +28,12 @@ The model was trained on the following publicly available dataset:
 Kaggle: [https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset](https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset)
 
 ---
+### Download YOLOv8 Model Weights
+
+Due to GitHub file size limits, the trained model weights (`final_best.pt`) are hosted externally.
+
+[ Download final_best.pt from Google Drive](https://drive.google.com/file/d/1ILDTIAeLyfQQRDDp2uEXadXG-wBHqJgE/view?usp=sharing)
+
 
 ## Technologies Used
 
