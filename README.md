@@ -77,7 +77,8 @@ AVIATION_COMBAT_STRATEGIST/
 ### 1. Clone the Repository
 
 git clone https://github.com/Madukalmanoj/Autonomous_Aviation_Combat_Strategist.git
-cd aviation-combat-strategist
+
+cd Autonomous_Aviation_Combat_Strategist
 
 ### 2. Install requirements:
 
