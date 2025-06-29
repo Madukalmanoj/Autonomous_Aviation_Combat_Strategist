@@ -1,0 +1,46 @@
+# ===== Python & Cache Files =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# ===== Virtual Environments =====
+env/
+venv/
+.venv/
+
+# ===== Dataset & Training Files =====
+datasets/
+train/
+valid/
+test/
+runs/                    # YOLOv8 training outputs
+*.pt                     # Optional: exclude all model weights
+# .gitignore
+Weights/final_best.pt
+
+  # EXCEPT this specific model weight
+
+# ===== Media Files (ignore all, allow select folders) =====
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+*.mov
+
+# Allow images/videos inside random_data folder
+!random_data/images/
+!random_data/images/*.jpg
+!outputs/*.png
+!random_data/videos/
+!random_data/videos/*.mp4
+
+# ===== System & Editor Junk =====
+.DS_Store
+Thumbs.db
+*.log
+
+# ===== VS Code Settings (optional) =====
+.vscode/
