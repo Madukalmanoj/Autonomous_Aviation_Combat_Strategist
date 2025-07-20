@@ -92,7 +92,7 @@ streamlit run app.py
 
 Example input files are located in the random_data/images/ and random_data/videos/ directories. You can use them for testing the system’s performance and strategy output.
 
-## Team Members
+<!-- ## Team Members
 
 | Name | Role |
 |------|------|
@@ -104,4 +104,4 @@ Example input files are located in the random_data/images/ and random_data/video
 
 
 
-Each teammate has hosted this project independently on their GitHub profile as part of the academic submission process.
+Each teammate has hosted this project independently on their GitHub profile as part of the academic submission process.-->
